@@ -1,0 +1,4 @@
+EgOfAbstractClass
+Pperson
+Teacher
+Student1

@@ -1,0 +1,5 @@
+Vehicle
+MultipleInheritanceGgDemo
+Car2
+TaxtInfo
+Bike

@@ -1,0 +1,14 @@
+package FileHandling;
+import java.io.*;
+public class SoFile {
+    public static void main(String[] args) {
+        File f=new File("d:/New Folder");
+        if(f.isDirectory()){
+            String fn[]=f.list();
+            for(String m:fn){
+                System.out.println(m);
+            }
+        }
+    }
+    
+}

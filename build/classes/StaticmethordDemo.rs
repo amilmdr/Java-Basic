@@ -1,0 +1,2 @@
+StaticmethordDemo
+Calculate

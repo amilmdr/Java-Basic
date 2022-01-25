@@ -1,0 +1,3 @@
+B
+SingleInheritanceDemo
+L
